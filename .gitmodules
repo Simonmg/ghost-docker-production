@@ -1,0 +1,3 @@
+[submodule "simon-s-blog"]
+	path = simon-s-blog
+	url = git@github.com-personal:Simonmg/simon-s-blog.git
